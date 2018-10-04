@@ -7,5 +7,9 @@ def array_with_two_elements
   return colors
 end
 
-def first_element
+def first_element(array)
+  return array.first
+end
+
+
   
